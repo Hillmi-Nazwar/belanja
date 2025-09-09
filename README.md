@@ -1,7 +1,7 @@
-# belanja
+# Tugas Praktikum 2
 
-A new Flutter project.
 
+  ## 1. pada praktikum ini saya membuat 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
